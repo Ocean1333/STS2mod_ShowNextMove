@@ -1,0 +1,10 @@
+{
+  "id": "IntentionStateMachine",
+  "name": "IntentionStateMachine",
+  "author": "Limesky",
+  "description": "displays monsters' intention state machine",
+  "version": "1.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": false
+}
