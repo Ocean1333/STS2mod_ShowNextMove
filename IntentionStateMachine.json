@@ -2,7 +2,7 @@
   "id": "IntentionStateMachine",
   "name": "IntentionStateMachine",
   "author": "Limesky",
-  "description": "displays monsters' intention state machine",
+  "description": "displays monsters' next intention",
   "version": "1.0",
   "has_pck": false,
   "has_dll": true,
